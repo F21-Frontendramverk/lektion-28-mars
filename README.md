@@ -6,7 +6,7 @@ Ada Lovelace: https://gist.github.com/zocom-christoffer-wallenberg/55e88892dca28
 
 ## Artiklar
 
-Officiall dokumentation: https://reactjs.org/
+Officiell dokumentation: https://reactjs.org/
 
 ## Videor
 
