@@ -13,3 +13,5 @@ Officiell dokumentation: https://reactjs.org/
 Learn React: https://scrimba.com/learn/learnreact
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/Eh63I7hdgnxEqLWwhG58QccBOew9IuEJvPOy8kY3dFSTSw?e=9H3VSv
